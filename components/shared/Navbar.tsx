@@ -41,7 +41,7 @@ const Navbar = () => {
         <h1 className="flex-1 md:hidden">Let's connect</h1>
         <div className="flex gap-3">
           <a
-            href="/files/Maarij Bukhari_Khan_Web_Developer_Resume.pdf"
+            href="/files/Maarij_resume.pdf"
             target="_blank"
             rel="noopener noreferrer"
           >
